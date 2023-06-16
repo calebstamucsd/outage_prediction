@@ -2,7 +2,7 @@
 
 ## Framing the Problem
 
-Test sentence
+Test sentence2
 
 In this project, I will be using regression techniques in an effort to predict the number of customers affected by a particular power outage. 
 
